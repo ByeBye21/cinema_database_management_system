@@ -256,7 +256,7 @@ SELECT
     f."Film_Ad",
     b."Fiyat",
     CASE
-        WHEN f."UstundeOrtalama" == TRUE THEN 'Üstünde'
+        WHEN f."UstundeOrtalama" THEN 'Üstünde'
         ELSE 'Altında'
     END AS "DegerlendirmeDurumu"
 FROM 
