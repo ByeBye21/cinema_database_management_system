@@ -1,0 +1,85 @@
+D:\cinema\cinema\bin\Debug\net8.0-windows\cinema.exe
+D:\cinema\cinema\bin\Debug\net8.0-windows\cinema.deps.json
+D:\cinema\cinema\bin\Debug\net8.0-windows\cinema.runtimeconfig.json
+D:\cinema\cinema\bin\Debug\net8.0-windows\cinema.dll
+D:\cinema\cinema\bin\Debug\net8.0-windows\cinema.pdb
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.cinema.resources
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.update.resources
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.csproj.GenerateResource.cache
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.AssemblyInfoInputs.cache
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.AssemblyInfo.cs
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.csproj.CoreCompileInputs.cache
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.dll
+D:\cinema\cinema\obj\Debug\net8.0-windows\refint\cinema.dll
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.pdb
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.genruntimeconfig.cache
+D:\cinema\cinema\obj\Debug\net8.0-windows\ref\cinema.dll
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.buy.resources
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.search.resources
+D:\cinema\cinema\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\cinema\cinema\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\cinema\cinema\bin\Debug\net8.0-windows\Npgsql.dll
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.csproj.AssemblyReference.cache
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.update_act.resources
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.update_cat.resources
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.update_dir.resources
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.csproj.CopyComplete
+D:\cinema\cinema\obj\Debug\net8.0-windows\cinema.update_sal.resources
+D:\New folder\cinema\cinema\bin\Debug\net8.0-windows\cinema.exe
+D:\New folder\cinema\cinema\bin\Debug\net8.0-windows\cinema.deps.json
+D:\New folder\cinema\cinema\bin\Debug\net8.0-windows\cinema.runtimeconfig.json
+D:\New folder\cinema\cinema\bin\Debug\net8.0-windows\cinema.dll
+D:\New folder\cinema\cinema\bin\Debug\net8.0-windows\cinema.pdb
+D:\New folder\cinema\cinema\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\cinema\cinema\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\cinema\cinema\bin\Debug\net8.0-windows\Npgsql.dll
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.csproj.AssemblyReference.cache
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.buy.resources
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.cinema.resources
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.search.resources
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.update.resources
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.update_act.resources
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.update_cat.resources
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.update_dir.resources
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.update_sal.resources
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.csproj.GenerateResource.cache
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.AssemblyInfoInputs.cache
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.AssemblyInfo.cs
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.csproj.CoreCompileInputs.cache
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.csproj.CopyComplete
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.dll
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\refint\cinema.dll
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.pdb
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.genruntimeconfig.cache
+D:\New folder\cinema\cinema\obj\Debug\net8.0-windows\ref\cinema.dll
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\bin\Debug\net8.0-windows\cinema.exe
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\bin\Debug\net8.0-windows\cinema.deps.json
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\bin\Debug\net8.0-windows\cinema.runtimeconfig.json
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\bin\Debug\net8.0-windows\cinema.dll
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\bin\Debug\net8.0-windows\cinema.pdb
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.csproj.AssemblyReference.cache
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.buy.resources
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.cinema.resources
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.search.resources
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.update.resources
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.update_act.resources
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.update_cat.resources
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.update_dir.resources
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.update_sal.resources
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.csproj.GenerateResource.cache
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.AssemblyInfoInputs.cache
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.AssemblyInfo.cs
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.csproj.CoreCompileInputs.cache
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.csproj.CopyComplete
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.dll
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\refint\cinema.dll
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.pdb
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.genruntimeconfig.cache
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\ref\cinema.dll
+C:\Users\Bye Bye\Desktop\New folder\cinema\cinema\obj\Debug\net8.0-windows\cinema.Properties.Resources.resources

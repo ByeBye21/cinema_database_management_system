@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D8+DXzRvxULcN1+wdIyKukK3gqOEoC4EkslCokOA2qdj3b6DfmyWi4rJT7t/42flSRUL1sTI5m4l3IbQTxspjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bye Bye\\Desktop\\New folder\\cinema\\cinema\\cinema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bye Bye\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Bye Bye\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Bye Bye\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
